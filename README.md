@@ -23,6 +23,6 @@ Things you may want to cover:
 
 ******************************************************************************************************
 
-NB: All remote work must be done on the 'betasite' branch. It will be merged to the master branch upon completion of project.
+NB: All remote work must be done on 'betasite' branch. It will be merged to the master branch upon completion of project.
 
 Rails Version: 5.1.6
